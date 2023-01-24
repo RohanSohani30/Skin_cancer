@@ -1,1 +1,1 @@
-# This is Project of skin cancer detection 
+This is Project of skin cancer detection 
