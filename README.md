@@ -1,1 +1,1 @@
-# This is repo of capston projects
+# This is Project of skin cancer detection 
